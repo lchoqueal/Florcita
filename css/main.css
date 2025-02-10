@@ -1652,7 +1652,7 @@ h1 {
 @media screen and (min-width: 1025px) {
   /* Estilos para pantallas grandes */
   h1 {
-      font-size: 2em;
+      font-size: 1.5em;
   }
 }
 
